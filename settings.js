@@ -33,14 +33,14 @@ if (__filename.includes('node_modules') === false) {
 // ⚡ ULTRA PRO MAX SETTINGS
 const settings = {
   // 🌟 Branding & Identity
-  botName: "Arslan-Ai",
-  packname: "Arslan-Ai Premium Pack",
-  author: "ArslanMD Official",
+  botName: "Ghost V999",
+  packname: "Cyber-ghost Premium Pack",
+  author: "Ghost Official",
   version: "3.0.0", // Major version upgrade
   
   // 👑 Ownership
-  botOwner: "ArslanMD",
-  ownerNumber: "923237045919",
+  botOwner: "CYBER-GHOST",
+  ownerNumber: "263785061900",
   coOwners: [], // Add secondary owners if needed
   
   // ⚙️ Operation Modes
