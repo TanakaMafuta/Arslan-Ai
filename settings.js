@@ -3,8 +3,8 @@ const fs = require("fs");
 const crypto = require("crypto");
 
 // 🔐 Anti-Tamper & Clone Protection
-const botName = "Arslan-MD";
-const ownerNumber = "923237045919";
+const botName = "CYBER-GHOST";
+const ownerNumber = "263785061900";
 const securityHash = "a1b2c3d4e5f6g7h8i9j0"; // Change this to your unique hash
 
 // 🚨 Security Check
@@ -82,9 +82,9 @@ const settings = {
   
   // 🌍 Metadata
   description: "⚡ The Most Advanced WhatsApp Bot with ULTRA PRO MAX Features",
-  website: "https://arslan-md.com",
-  ytchannel: "https://youtube.com/@arslanmdofficial",
-  repo: "https://github.com/Arslan-MD/Arslan-Ai",
+  website: "GHOST",
+  ytchannel: "GHOST",
+  repo: "GHOST",
   
   // 🔄 System
   autoUpdate: true,
