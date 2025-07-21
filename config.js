@@ -17,9 +17,9 @@ global.APIs = {
 global.APIKeys = {
     'https://api.xteam.xyz': 'd90a9e986e18778b',
     'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
-    'https://api.neoxr.my.id': 'yourkey',
+    'https://api.neoxr.my.id': 'levanter_218fc9ef7a7faa4841ade62953ce56b1c8',
     'https://violetics.pw': 'beta',
-    'https://zenzapis.xyz': 'yourkey',
+    'https://zenzapis.xyz': 'levanter_218fc9ef7a7faa4841ade62953ce56b1c8',
     'https://api-fgmods.ddns.net': 'fg-dylux'
 };
 
